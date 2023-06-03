@@ -17,7 +17,9 @@ Visual components and Python
 
 
 ## Experiment:
+![ee](https://github.com/Vineesh-AI-DS/Open-Jacson-Networks/assets/93427254/b1b2a6a7-0a6f-4914-ac78-a72bd66f2bc8)
 
+![eee](https://github.com/Vineesh-AI-DS/Open-Jacson-Networks/assets/93427254/0b63054d-b4e9-4b1d-9ce4-ae8c1259f9c0)
 
 ## Program:
 ```
@@ -64,7 +66,9 @@ else:
 print("----------------------------------------------------------------------")
 ```
 
-## Output
+## Output:
+
+![op1](https://github.com/Vineesh-AI-DS/Open-Jacson-Networks/assets/93427254/1e88249d-9466-4bf5-ad28-60e9f6244df8)
 
 ## Result:
 The average number of material in the sysytem and in the conveyor and waiting time are successfully found.
